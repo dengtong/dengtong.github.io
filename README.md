@@ -4,6 +4,17 @@
 
 [App Store](https://apps.apple.com/us/app/%E6%95%B0%E6%99%BA%E9%99%A2%E6%89%80p8/id6478200285)
 
+
+## 功能介绍（Function introduction）：
+
+科研院所数智业财一体化平台，智能化应用定制帮助企业快速适应业务变化
+
+Intelligent application customization helps enterprises quickly adapt to business changes
+
+随需定制、快速搭建、快速见效。低代码，智能化应用定制帮助企业快速适应业务变化
+
+Custom on demand, quick build, quick results. Low code, intelligent application customization helps enterprises quickly adapt to business changes
+
 ## 你的权益 / Your Rights
 开发者承诺，除法律法规另有规定外，开发者对你的信息的保存期限应当为实现处理目的所必要的最短时间。
 

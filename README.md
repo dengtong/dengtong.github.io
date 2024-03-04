@@ -5,7 +5,7 @@
 [App Store](https://apps.apple.com/us/app/%E6%95%B0%E6%99%BA%E9%99%A2%E6%89%80p8/id6478200285)
 
 
-## 功能介绍（Function introduction）：
+## 功能介绍 / （Function introduction）
 
 科研院所数智业财一体化平台，智能化应用定制帮助企业快速适应业务变化
 
